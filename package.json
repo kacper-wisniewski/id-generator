@@ -1,0 +1,9 @@
+{
+  "name": "@kacper-wisniewski/get-random-id",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kacper-wisniewski/id-generator.git",
+  "author": "Kacper Wiśniewski <kaka1341@gmail.com>",
+  "keywords": ["id", "generator", "id-generator", "generate"],
+  "license": "MIT"
+}
